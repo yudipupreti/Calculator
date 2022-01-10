@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641829313 source:d:\c projects\codinghero\main.c
+	<stdio.h>
+	<conio.h>
+
